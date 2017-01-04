@@ -16,7 +16,7 @@ function count() {
 		fetch('Singapore', 1.5)
 	} else if (city == 'angkara') {
 		fetch('Angkara', 4)
-	} else if (city == 'taipei') {
-		fetch('Taipei', 1.5)
+	} else if (city == 'taipe') {
+		fetch('Taipe', 1.5)
 	}
 }
